@@ -7,7 +7,7 @@ const Theory = () => {
             <h2>How React js Works</h2>
             <h3>
             React is a JavaScript library for creating interactive and fast user
-            interfaces for web and mobile apps. It is a component-based open-source front-end library that is solely responsible for the application’s view layer.To render content, React components do not necessarily require the execution of steps. Therefore, React components rely heavily on JSX.When the data changes and we need to render the component, React differs from libraries such as handlebars. Handlebars create the entire HTML string, as was the case with the original rendering.
+            interfaces for web and mobile apps. Its component-based open-source front-end library that is solely responsible for the application’s view layer.To render content, React components do not necessarily require the execution of steps. Therefore, React components rely heavily on JSX.When the data changes and we need to render the component, React differs from libraries such as handlebars. Handlebars create the entire HTML string, as was the case with the original rendering.
 
             on the otherhand,
             Props are read-only components. It is an object which stores the value of attributes of a tag and work similar to the HTML attributes. It allows passing data from one component to other components. It is similar to function arguments and can be passed to the component the same way as arguments passed in a function. Props are immutable so we cannot modify the props from inside the component.
