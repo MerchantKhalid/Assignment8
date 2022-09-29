@@ -14,7 +14,7 @@ const Theory = () => {
             </h3>
         </div>
         <div className='theory'>
-        <h2>Props vs state</h2>
+        <h2>Props vs state difference</h2>
         The state is an updatable structure that is used to contain data or information about the component and can change over time. The change in state can happen as a response to user action or system event. It is the heart of the react component which determines the behavior of the component and how it will render. A state must be kept as simple as possible. It represents the component's local state or information. It can only be accessed or modified inside the component or by the component directly.
         </div>
         <div className='theory'>
