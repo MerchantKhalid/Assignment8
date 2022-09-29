@@ -2,7 +2,7 @@ import React from 'react';
 import './Exercise.css'
 
 const Exercise = ({item,handleAddToList}) => {
-    const {name,desc,age,img,time} = item
+    const {id,name,desc,age,img,time} = item
     return (
         <div className='exercise-card'>
             <img src={img} alt='Gym'></img>
