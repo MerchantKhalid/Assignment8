@@ -1,0 +1,53 @@
+.cart-text{
+    color: white;
+    font-weight: bold;
+    margin-bottom: 20px;
+    padding: 15px 10px;
+    
+}
+.cart{
+    position: sticky;
+    top: 0;
+    
+}
+.break-p{
+    margin-left: 15px;
+    font-weight: bold;
+    color: white;
+}
+.btn-row{
+    display: flex;
+    margin-left:15px;
+    
+}
+.btn-cart{
+   margin-left: 10px;
+   border: 2px solid white;
+   border-radius: 50%;
+   padding: 8px;
+   color: white;
+   cursor: pointer;
+}
+.btn-cart:hover{
+    color: beige;
+    font-weight: bold;
+}
+.activity{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.activity-btn{
+    margin-top: 60px;
+    background-color: white;
+    color: blue;
+    border-radius: 5px;
+    border: 1px solid blue;
+    padding: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.activity-btn:hover{
+    color: brown;
+}
+
