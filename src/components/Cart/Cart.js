@@ -2,7 +2,6 @@ import React from 'react';
 import './Cart.css'
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-
 import Theory from '../Theory';
 
  
@@ -47,7 +46,7 @@ const Cart = ({cart}) => {
              <div>
              <h2 className='cart-text'>Exercise Details</h2>
              <p className='break-p'>Exercise Time: {time} Seconds</p>
-             <p className='break-p'>Break Time:<span id='typed-numbers'>0</span> Seconds</p>
+             <p className='break-p'>Break Time: <span id='typed-numbers'>0</span> Seconds</p>
             
              </div>
              <div className='activity'>
