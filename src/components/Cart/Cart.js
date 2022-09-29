@@ -8,7 +8,7 @@ import Theory from '../Theory';
  
 
 const Cart = ({cart}) => {
-    console.log(cart)
+    
     let time = 0;
     for(const service of cart){
          time = time + service.time
