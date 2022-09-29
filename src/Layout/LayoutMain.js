@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Cart from '../components/Cart/Cart';
 import Exercise from '../components/Exercise/Exercise';
-import  {addToDb, getStored } from '../fakeDb';
 import './LayoutMain.css';
 
 const LayoutMain = () => {
