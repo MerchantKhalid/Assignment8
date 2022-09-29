@@ -20,7 +20,7 @@ const Theory = () => {
         <div className='theory'>
 <h2>How use effect works</h2>
 useEffect runs on every render. its mean  that when the count changes, a render happens, which then triggers another effect.The useEffect Hook allows you to perform side effects in components.
-The React Hook useEffect allows a functional component to perform side effects. It works in a similar fashion to the lifecycle methods componentDidMount, componentWillUpdate, and componentWillUnmount in React class components. Refer to this introduction on React lifecycle methods for more details.
+The React Hook useEffect allows a functional component for perform side effects. Its works in a similar fashion to the lifecycle methods componentDidMount, componentWillUpdate, and componentWillUnmount in React class components. Refer to this introduction on React lifecycle methods for more details.
         </div>
             
         </div>
